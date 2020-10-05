@@ -1,4 +1,4 @@
-# PlayGYM
+# Quiz
 A fun and exciting quiz application which rewards winners with instant cash prizes directly to their bank accounts as well as provide overall Ranking.
 
 ### This application was built using React, NodeJS, express, and MongoDB.
